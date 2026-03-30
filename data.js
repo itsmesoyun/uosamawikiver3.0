@@ -96,7 +96,7 @@ window.AMA_PLAYERS = [
     "idealType": "아직 잘 모르겠네요",
     "motto": "안해서 후회하기보다는 차라리 하고서 후회하기",
     "tmi": "매번 지하철을 탈 때마다 어르신들이 항상 한번정도 길을 여쭤보신다",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "윈스턴 처칠"
   },
@@ -123,7 +123,7 @@ window.AMA_PLAYERS = [
     "idealType": "잘 웃는 사람",
     "motto": "착하게 살자",
     "tmi": "고등학생 때 꼬리벼 부상으로 방석을 가지고 다녔는데 치질이라고 소문나서 억울했어요",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": ""
   },
@@ -150,7 +150,7 @@ window.AMA_PLAYERS = [
     "idealType": "잘해주고 운동 잘하는 사람, 나 웃게해주는 사람!",
     "motto": "행복하고 건강하게 살자",
     "tmi": "키 162인 줄 알았는데 최근 164.7로 업데이트됨",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": ""
   },
@@ -177,7 +177,7 @@ window.AMA_PLAYERS = [
     "idealType": "성실하고 현명한 사람이면서 에쁜 사람",
     "motto": "나를 죽이지 못하는 고통은 날 더 강하게 만든다",
     "tmi": "윤여준 27년 10월 전역 수고해라 ㅋㅋ",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "박지성"
   },
@@ -568,7 +568,7 @@ window.AMA_PLAYERS = [
     "idealType": "귀엽고 밝고 말 많은 사람",
     "motto": "자신있게 살자",
     "tmi": "극I이지만 약간의 관종끼가 있음(?)",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "손흥민"
   },
@@ -595,7 +595,7 @@ window.AMA_PLAYERS = [
     "idealType": "하얗고 예쁜 사람",
     "motto": "인생은 자신감",
     "tmi": "생각보다 섬세함",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "한지훈 선배님"
   },
@@ -622,7 +622,7 @@ window.AMA_PLAYERS = [
     "idealType": "징징대지 않는 사람",
     "motto": "",
     "tmi": "올해 입대..",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": ""
   },
@@ -703,7 +703,7 @@ window.AMA_PLAYERS = [
     "idealType": "사랑스러운 사람",
     "motto": "항상 최선을 다 하자",
     "tmi": "피자 한 판 다 먹는다",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "페드리"
   },
@@ -784,7 +784,7 @@ window.AMA_PLAYERS = [
     "idealType": "대화가 잘 되는 사람",
     "motto": "",
     "tmi": "활발하지만, 부끄럼이 많은 사람입니다.",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": "아빠"
   },
@@ -885,7 +885,7 @@ window.AMA_PLAYERS = [
     "idealType": "예쁘고 자기 할 일 잘하고 잘 맞는 사람",
     "motto": "좋아하는 걸 하자, 좋아하는 것들에 미쳐서 살자",
     "tmi": "대학원 준비하면서 급속 노화 진행 중……",
-    "image": "image2/아마축구부 로고2.png",
+    "image": "image2/logo.png",
     "group": "YB",
     "rolemodel": ""
   }
