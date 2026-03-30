@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OB 선수 소개 | AMA-wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-group="OB">
+  <header class="hero">
+    <h1 class="logo-title">
+      <img src="image2/아마축구부 로고.png" alt="logo" class="logo-img">
+      AMA-wiki
+    </h1>
+    <p>아마축구부 OB 선수 소개</p>
+  </header>
+
+  <nav class="main-nav">
+    <a href="index.html">홈</a>
+    <a href="club.html">동아리 소개</a>
+    <a href="yb.html">YB 선수 소개</a>
+    <a href="ob.html" class="active">OB 선수 소개</a>
+  </nav>
+
+  <main class="container">
+    <section>
+      <div class="top-bar clean-top-bar">
+        <div class="search-box compact-search">
+          <input id="searchInput" type="text" placeholder="이름 또는 학과 검색">
+        </div>
+
+        <div class="control-row clean-controls">
+          <div class="select-wrap">
+            <select id="generationSelect" aria-label="기수 선택"></select>
+          </div>
+        </div>
+      </div>
+
+      <div id="playerGrid" class="player-grid"></div>
+      <div id="emptyState" class="empty" style="display:none;">조건에 맞는 선수가 없습니다.</div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal">
+    <div class="modal-box">
+      <div id="modalInner" class="modal-inner"></div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+
+  <div class="footer">AMA-wiki</div>
+</body>
+</html>
