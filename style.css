@@ -633,7 +633,8 @@ header.hero{
 /* 반응형 */
 @media (max-width: 1024px){
   .player-grid{
-    grid-template-columns:repeat(3,1fr);
+    grid-template-columns:repeat(2,1fr);
+    gap: 14px;
   }
 
   .home-grid{
