@@ -702,10 +702,6 @@ header.hero{
     padding:24px 16px 50px;
   }
 
-  .player-grid{
-    grid-template-columns:1fr;
-  }
-
   .link-grid{
     grid-template-columns:1fr;
   }
@@ -716,5 +712,34 @@ header.hero{
 
   .logo-bottom-message{
     font-size:17px;
+  }
+}
+@media (max-width: 640px){
+  body[data-group="YB"] .player-grid,
+  body[data-group="OB"] .player-grid{
+    grid-template-columns:repeat(2, 1fr);
+    gap:14px;
+  }
+
+  body[data-group="YB"] .card-image,
+  body[data-group="OB"] .card-image{
+    height:200px;
+  }
+
+  body[data-group="YB"] .card-body,
+  body[data-group="OB"] .card-body{
+    padding:14px;
+  }
+
+  body[data-group="YB"] .player-name,
+  body[data-group="OB"] .player-name{
+    font-size:17px;
+    margin-bottom:8px;
+  }
+
+  body[data-group="YB"] .card-info,
+  body[data-group="OB"] .card-info{
+    font-size:12px;
+    gap:4px;
   }
 }
