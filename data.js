@@ -3,7 +3,7 @@ window.AMA_PLAYERS = [
     "name": "방소윤",
     "generation": "47기",
     "position": "윈터 of 공간 에스파",
-    "number": "#18",
+    "number": "#10",
     "age": "2005년생",
     "hometown": "전라남도 장흥",
     "instagram": "itsme_soyun",
