@@ -702,10 +702,6 @@ header.hero{
     padding:24px 16px 50px;
   }
 
-  .player-grid{
-    grid-template-columns:1fr;
-  }
-
   .link-grid{
     grid-template-columns:1fr;
   }
