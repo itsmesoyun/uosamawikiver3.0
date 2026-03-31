@@ -631,6 +631,11 @@ header.hero{
 }
 
 /* 반응형 */
+@media (max-width: 640px){
+  .player-grid{
+    grid-template-columns:repeat(2,1fr);
+    gap: 14px;
+  }
 
   .home-grid{
     grid-template-columns:1fr;
@@ -650,6 +655,7 @@ header.hero{
     max-width:120px;
     margin:0 auto;
   }
+}
 
 @media (max-width: 900px){
   .clean-top-bar{
@@ -696,42 +702,10 @@ header.hero{
     padding:24px 16px 50px;
   }
 
-  /* 🔥 핵심: 무조건 2개 유지 */
   .player-grid{
-    grid-template-columns:repeat(2, minmax(0, 1fr));
-    gap:12px;
+    grid-template-columns:1fr;
   }
 
-  /* 카드 사이즈 줄이기 */
-  .player-card{
-    border-radius:16px;
-  }
-
-  .card-image{
-    height:180px;
-  }
-
-  .card-body{
-    padding:12px;
-  }
-
-  .player-name{
-    font-size:16px;
-    margin-bottom:8px;
-  }
-
-  .card-info{
-    gap:4px;
-    font-size:12px;
-  }
-
-  .badge{
-    font-size:11px;
-    padding:5px 8px;
-    margin-bottom:10px;
-  }
-
-  /* 나머지는 그대로 */
   .link-grid{
     grid-template-columns:1fr;
   }
