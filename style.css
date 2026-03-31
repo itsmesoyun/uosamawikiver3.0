@@ -271,30 +271,3 @@ header.hero{
     font-size:34px;
   }
 }
-/* 🔥 강제 모바일 2열 (최종 해결 코드) */
-@media (max-width: 640px){
-  .player-grid{
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 10px !important;
-  }
-
-  .player-card{
-    transform: scale(0.98);
-  }
-
-  .card-image{
-    height:130px !important;
-  }
-
-  .card-body{
-    padding:10px !important;
-  }
-
-  .player-name{
-    font-size:13px !important;
-  }
-
-  .card-info{
-    font-size:11px !important;
-  }
-}
