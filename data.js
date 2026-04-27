@@ -939,7 +939,7 @@ window.AMA_PLAYERS = [
     "idealType": "KYJ",
     "motto": "놀땐 놀고 일할땐 일하자",
     "tmi": "경험주의자. 머리 기르는중. 어울린다고 생각해서 기르는거 아님. 취직전 해보고 싶어서.",
-    "image": "image2/최명교.jpg",
+    "image": "최명교.jpg",
     "group": "YB",
     "rolemodel": "실패를 무서워하지 않고 도전하는 사람"
   },
@@ -966,7 +966,7 @@ window.AMA_PLAYERS = [
     "idealType": "ESTJ에 긴생머리",
     "motto": "긍정적으로 살기",
     "tmi": "24년도 편입학",
-    "image": "image2/오해찬.jpg",
+    "image": "오해찬.jpg",
     "group": "YB",
     "rolemodel": "세종대왕"
   },
